@@ -10,4 +10,4 @@ var userName = 'rakib hasan';
 var hotelIsGood = true;
 
 // Integer 1 2 3 4 5 6 
-// Float 2.23 52.3 6.32
+// Float 2.23 52.3 6.320
