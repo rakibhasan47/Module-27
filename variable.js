@@ -1,7 +1,7 @@
 // Number
 var watchPrice = 120;
 watchPrice = 125;
-// console.log(watchPrice);
+console.log(watchPrice);
 
 // String
 var userName = 'rakib hasan';
